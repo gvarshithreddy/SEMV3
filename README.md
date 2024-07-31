@@ -1,3 +1,3 @@
 # SEM
-Student to Eperiment Mapper
-by zondy inc.
+Student to Eperiment Mapper \
+Live Hosting : https://nmapper.pythonanywhere.com/
